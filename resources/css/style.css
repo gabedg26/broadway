@@ -13,5 +13,23 @@ body {
 .btn {
   font-size: 18px;
   color: white;
-
+}
+.mid {
+  color: black;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
+}
+.block p{
+  font-size:14px
+  color: black;
+}
+.bg h2{
+  font-size: 23px;
 }
