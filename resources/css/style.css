@@ -4,9 +4,14 @@ body {
   text-align: center;
 }
 .bg {
-  background-image: url(.\resources\css\style.css);
+  background-image: url(../images/building.png);
 }
 .banner {
   font-size: 70px;
   font-weight: bold;
+}
+.btn {
+  font-size: 18px;
+  color: white;
+
 }
