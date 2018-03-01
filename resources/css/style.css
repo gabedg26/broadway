@@ -1,0 +1,12 @@
+body {
+  color: white;
+  font-family: Helvetica;
+  text-align: center;
+}
+.bg {
+  background-image: url(.\resources\css\style.css);
+}
+.banner {
+  font-size: 70px;
+  font-weight: bold;
+}
